@@ -1,0 +1,14 @@
+#JSGF V1.0;
+
+grammar direc;
+
+no /1e-1/
+yes /1e-1/
+up /1e-1/
+down /1e-1/
+left /1e-1/
+right /1e-1/
+accept /1e-1/
+reject /1e-1/
+
+
